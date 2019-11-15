@@ -1,0 +1,7 @@
+Slack-Octopus 
+read a configuration file on the local computer
+trigger Monday to tell everyone and Thursday morning asking help.
+
+
+Deactivate for holiday
+
